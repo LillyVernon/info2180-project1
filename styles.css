@@ -44,3 +44,11 @@ ul {
     grid-row-start: 1;
     grid-row-end: 3;
 }
+
+.cta {
+    float: right;
+}
+
+.testing-description {
+    text-align: left;
+}
