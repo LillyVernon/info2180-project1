@@ -56,3 +56,16 @@ ul {
 .newsletter {
     text-align: center;
 }
+
+.form-group {
+    display: inline-block;
+}
+
+.article-body {
+    display: inline-block;
+}
+
+article {
+    display: flex;
+    padding: 20px;
+}
